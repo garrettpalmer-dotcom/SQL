@@ -1,4 +1,4 @@
-# SQL Query Portfolio — AdventureWorks Data Warehouse
+# SQL Query Portfolio — Data Warehouse
 
 A collection of T-SQL queries written against the **AdventureWorksDW** sample data
 warehouse using Microsoft SQL Server (queried through Azure SQL / VS Code). The
